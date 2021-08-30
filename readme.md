@@ -26,11 +26,11 @@
 
 `sever.py`测试时间消耗为`90ms`
 
-![image-20210830063604686](C:\Users\wie\AppData\Roaming\Typora\typora-user-images\image-20210830063604686.png)
+![image-20210830063604686](https://github.com/yang-collect/text_match/blob/main/image-20210830063604686.png)
 
 双塔模型的`sever.py`测试时间消耗为`69ms`
 
-![image-20210830040314926](C:\Users\wie\AppData\Roaming\Typora\typora-user-images\image-20210830040314926.png)
+![image-20210830040314926](https://github.com/yang-collect/text_match/blob/main/image-20210830040314926.png)
 
 # 文件结构
 
